@@ -1,4 +1,4 @@
-package com.lkh.circularrectprogresslayout.consts
+package com.lkh.corner.init
 
 import android.app.Application
 

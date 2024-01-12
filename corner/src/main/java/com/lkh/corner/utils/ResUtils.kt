@@ -1,8 +1,7 @@
-package com.lkh.circularrectprogresslayout.utils
+package com.lkh.corner.utils
 
 import androidx.core.content.res.ResourcesCompat
-import com.lkh.circularrectprogresslayout.consts.Global
-
+import com.lkh.corner.init.Global
 
 
 fun getDimenKt(res: Int): Float {

@@ -1,4 +1,4 @@
-package com.lkh.circularrectprogresslayout.widgets
+package com.lkh.corner.widgets
 
 import android.content.Context
 import android.graphics.Canvas
@@ -11,9 +11,9 @@ import android.graphics.RectF
 import android.graphics.Shader
 import android.util.AttributeSet
 import android.view.View
-import com.lkh.circularprogressbar.R
-import com.lkh.circularrectprogresslayout.utils.getColorKt
-import com.lkh.circularrectprogresslayout.utils.getDimenKt
+import com.lkh.corner.utils.getColorKt
+import com.lkh.corner.utils.getDimenKt
+import com.lkh.corner.R
 
 
 /**

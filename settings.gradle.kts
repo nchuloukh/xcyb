@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CircularProgressBar"
 include(":app")
- 
+include(":corner")

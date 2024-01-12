@@ -2,7 +2,7 @@ package com.lkh.circularprogressbar
 
 import android.app.Activity
 import android.os.Bundle
-import com.lkh.circularrectprogresslayout.widgets.CircularRectProgressView
+import com.lkh.corner.widgets.CircularRectProgressView
 import java.util.Timer
 import java.util.TimerTask
 

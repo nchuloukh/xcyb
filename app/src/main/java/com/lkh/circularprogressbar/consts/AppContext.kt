@@ -16,7 +16,7 @@ class AppContext : Application() {
     override fun attachBaseContext(base: Context?) {
         super.attachBaseContext(base)
         app = this
-        Global.init(this)
+        com.lkh.corner.init.Global.init(this)
     }
 
 }
