@@ -1,0 +1,17 @@
+<resources>
+
+    <declare-styleable name="CircularRectProgressView">
+
+        <attr name="crp_ring_stroke_width" format="dimension" />
+        <attr name="crp_mask_color" format="color|reference" />
+        <attr name="crp_text_color" format="color|reference" />
+        <attr name="crp_text_size" format="dimension" />
+        <attr name="crp_corner_radius" format="dimension" />
+        <attr name="crp_current_progress" format="integer" />
+        <attr name="crp_bg_color" format="color|reference" />
+        <attr name="crp_progress_color" format="color|reference" />
+        <attr name="crp_start_color" format="color|reference" />
+        <attr name="crp_end_color" format="color|reference" />
+        <attr name="crp_is_shader" format="boolean" />
+    </declare-styleable>
+</resources>
